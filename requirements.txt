@@ -1,0 +1,6 @@
+pandas
+opencv-python
+Pillow
+openpyxl
+# Detectron2 debe ser instalado manualmente siguiendo su guía oficial
+# debido a su dependencia con PyTorch y compiladores.

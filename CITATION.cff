@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo como se indica a continuación."
+title: "LeafSegmenter: Analizador de Área Foliar"
+version: 1.0.0
+authors:
+  - family-names: "Apellido_Autor_1"
+    given-names: "Nombre_Autor_1"
+  - family-names: "Apellido_Autor_2"
+    given-names: "Nombre_Autor_2"
+  - family-names: "Apellido_Autor_3"
+    given-names: "Nombre_Autor_3"
+# doi: # Añade aquí el DOI cuando lo generes con Zenodo
+date-released: 2025-10-02
