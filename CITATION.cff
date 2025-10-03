@@ -3,11 +3,11 @@ message: "Si usas este software, por favor cítalo como se indica a continuació
 title: "LeafSegmenter: Analizador de Área Foliar"
 version: 1.0.0
 authors:
-  - family-names: "Apellido_Autor_1"
-    given-names: "Nombre_Autor_1"
-  - family-names: "Apellido_Autor_2"
-    given-names: "Nombre_Autor_2"
-  - family-names: "Apellido_Autor_3"
-    given-names: "Nombre_Autor_3"
+  - family-names: "Mezo Solis_1"
+    given-names: "Jesus_Albertor_1"
+  - family-names: "Alvarado_Lopez_2"
+    given-names: "Carlos_Juan_2"
+  - family-names: "Andueza_Noh_3"
+    given-names: "Rubén_Humberto_3"
 # doi: # Añade aquí el DOI cuando lo generes con Zenodo
 date-released: 2025-10-02

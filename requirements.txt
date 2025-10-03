@@ -2,5 +2,10 @@ pandas
 opencv-python
 Pillow
 openpyxl
-# Detectron2 debe ser instalado manualmente siguiendo su guía oficial
-# debido a su dependencia con PyTorch y compiladores.
+
+# --- NOTA IMPORTANTE SOBRE DETECTRON2 ---
+# 1. INSTALACIÓN DE LA LIBRERÍA: Detectron2 debe instalarse manualmente.
+#    Sigue la guía oficial en: https://github.com/facebookresearch/detectron2/blob/main/INSTALL.md
+
+# 2. DESCARGA DEL MODELO: No te preocupes por esto. El script de Python
+#    (main.py) descargará los pesos del modelo automáticamente la primera vez que se ejecute.
